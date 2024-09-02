@@ -1,2 +1,2 @@
-# SemEvsl-2025
+# SemEval-2025
 Acaliação/Desafio Mestrado em Computação UFF / SemEval
